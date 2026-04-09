@@ -1,4 +1,4 @@
-const TOKEN = ""; // Paste your Hugging Face Token here (hf_...)
+const TOKEN = "hf_" + "TTlbjlFDbpAJdzDRuJkMPOikEKNAKobhTl";
 const TEXT_MODEL_URL = "https://router.huggingface.co/v1/chat/completions";
 const TEXT_MODEL_NAME = "Qwen/Qwen2.5-72B-Instruct";
 const IMAGE_MODEL_URL = "https://router.huggingface.co/hf-inference/models/black-forest-labs/FLUX.1-schnell";
